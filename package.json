@@ -107,7 +107,7 @@
     "@phenomnomnominal/tsquery": "4.0.0",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
     "@storybook/addon-actions": "6.2.9",
-    "@storybook/addon-essentials": "6.2.9",
+    "@storybook/addon-essentials": "6.4.0",
     "@storybook/addon-links": "6.1.18",
     "@storybook/addon-storyshots": "6.2.9",
     "@storybook/react": "6.2.9",
