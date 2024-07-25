@@ -1,3 +1,4 @@
+![FB_IMG_1720139236214](https://github.com/user-attachments/assets/cac78d6f-fe0f-4469-a749-65a8def484c3)
 # MyCrypto Web App
 
 [![Build](https://github.com/MyCryptoHQ/MyCrypto/workflows/GitHub%20CI/badge.svg?branch=master)](https://github.com/MyCryptoHQ/MyCrypto/actions)
